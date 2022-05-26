@@ -127,8 +127,7 @@ return [
                 [
                     'name' => '🥈 Silver',
                     'short_description' => 'Get started using hunt intelligence via the Silver Plan',
-                    'monthly_id' => 'price_1KfvgeD5fy9Yqy8V2MSuiHYa',
-                    'yearly_id' => 'price_1KfvgeD5fy9Yqy8VfKiFQEaM',
+                    'monthly_id' => 'price_1L3d3pLVchjemslf1OneJ5hR',
                     'yearly_incentive' => 'Get 2 Months Free',
                     'features' => [
                         'Locate Facebook and Instagram Places',
